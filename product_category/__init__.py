@@ -1,0 +1,1 @@
+from .product_category import get_product_category_pairs
